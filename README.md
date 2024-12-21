@@ -13,10 +13,11 @@ The candidate value represents the potential information that could be added to 
 
 Output Gate: Controls which information from the cell state is used to compute the current output.  
 
-![image](https://github.com/user-attachments/assets/2b7ed4a7-26f8-4a0a-b306-265d370715da)
-
 ![image](https://github.com/user-attachments/assets/1b713834-bc1a-4224-8ed1-27e90e784ee3)
 
+Mathematical Intuition
+
+![image](https://github.com/user-attachments/assets/2b7ed4a7-26f8-4a0a-b306-265d370715da)
 
 
 # Implementation
