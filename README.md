@@ -29,3 +29,4 @@ LSTM:
 ![image](https://github.com/user-attachments/assets/3923effe-f1bc-4d35-8ac6-898551f277ba)
 
 
+![image](https://github.com/user-attachments/assets/f7ee6c61-a4e8-4bbd-8560-6c77d1c85e5a)
