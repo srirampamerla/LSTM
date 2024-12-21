@@ -24,6 +24,8 @@ Mathematical Intuition
 
 ![image](https://github.com/user-attachments/assets/f403f64e-0aae-49e1-92ba-582cf534651c)
 
+LSTM:
+
 ![image](https://github.com/user-attachments/assets/3923effe-f1bc-4d35-8ac6-898551f277ba)
 
 
