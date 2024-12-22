@@ -30,3 +30,35 @@ LSTM:
 
 
 ![image](https://github.com/user-attachments/assets/f7ee6c61-a4e8-4bbd-8560-6c77d1c85e5a)
+
+# GRU- Gated Recurrent Units
+
+GRU: Combines LSTM's gates into update and reset gates, simplifying the architecture.
+
+![image](https://github.com/user-attachments/assets/d3cf79d3-ce82-4693-b81c-56e4a0fdbec9)
+
+Reduced Complexity: LSTMs have two gates (forget and input) to control the flow of information. GRUs, on the other hand, have only two gates:
+
+Reset Gate: Determines how much of the past information should be forgotten.   
+
+Update Gate: Controls how much of the past information should be passed to the next time step.  
+
+This simpler structure makes GRUs easier to train and computationally less expensive.   
+
+Improved Performance: Despite their simpler architecture, GRUs have shown comparable or even better performance than LSTMs in many tasks, particularly in tasks with shorter sequences.
+
+Vanishing Gradients: Like LSTMs, GRUs also help mitigate the vanishing gradient problem, allowing them to capture long-range dependencies in sequential data.
+
+GRU: Comparable to LSTM but faster and smaller in size.
+
+![image](https://github.com/user-attachments/assets/d3d82ca5-edfa-45b4-9c06-2f865ddfd7c7)
+
+
+![image](https://github.com/user-attachments/assets/114af05f-416f-415d-8e12-0d99f9fc04df)
+
+# Implementation
+
+
+![image](https://github.com/user-attachments/assets/66b84122-d4df-471c-8fba-77cf33b9d471)
+
+
